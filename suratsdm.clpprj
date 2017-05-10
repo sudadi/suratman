@@ -1,0 +1,125 @@
+<?xml version="1.0" encoding="utf-8"?>
+<project name="D:\xampp\htdocs\suratsdm\suratsdm.clpprj">
+	<settings><PM_URL><![CDATA[http://localhost/suratsdm/]]></PM_URL><PM_HOME_URL><![CDATA[http://localhost/suratsdm/]]></PM_HOME_URL><PM_LIBS><![CDATA[]]></PM_LIBS><PM_FTP_CONNECTION><![CDATA[]]></PM_FTP_CONNECTION><PM_FTP_DIR><![CDATA[]]></PM_FTP_DIR><PM_FTP_UPLOAD_ON_SAVE><![CDATA[INT:0]]></PM_FTP_UPLOAD_ON_SAVE></settings><removed value=";"/><added value=""/><lastopfiles>
+	</lastopfiles>
+	<errors version="5.11">
+		<errfile name="D:\xampp\htdocs\suratsdm\assets\css\font-awesome.min.css">
+			<error val="637;3;671;3;2502;1;"/>
+			<error val="602;3;637;3;2502;1;"/>
+			<error val="582;3;602;3;2502;1;"/>
+		</errfile>
+		<errfile name="D:\xampp\htdocs\suratsdm\assets\css\bootstrap-3.3.1.min.css">
+			<error val="121;4;147;4;2502;1;"/>
+			<error val="91;4;121;4;2502;1;"/>
+			<error val="763;4;777;4;2501;1;"/>
+			<error val="3613;4;3647;4;2502;1;"/>
+			<error val="3578;4;3613;4;2502;1;"/>
+			<error val="12540;4;12582;4;2502;1;"/>
+			<error val="30951;4;30995;4;2502;1;"/>
+			<error val="36850;4;36870;4;2502;1;"/>
+			<error val="41277;4;41299;4;2502;1;"/>
+			<error val="41181;4;41211;4;2502;1;"/>
+			<error val="41299;4;41320;4;2502;1;"/>
+			<error val="41211;4;41237;4;2502;1;"/>
+			<error val="41320;4;41337;4;2502;1;"/>
+			<error val="41852;4;41872;4;2502;1;"/>
+			<error val="55521;4;55541;4;2502;1;"/>
+			<error val="62333;4;62366;4;2502;1;"/>
+			<error val="78765;4;78769;4;2502;1;"/>
+			<error val="80190;4;80243;4;2502;1;"/>
+			<error val="98880;4;98913;4;2502;1;"/>
+		</errfile>
+	</errors>
+	<cakedata>
+	</cakedata>
+	<dplmenupath>
+	</dplmenupath><laravael>
+	</laravael><smartyassings>
+	</smartyassings><twigtemplate>
+	</twigtemplate><yiidata>
+	</yiidata>
+	<todoblock>
+	</todoblock>
+	<dbgurls>
+	</dbgurls>
+	<filescache>
+		<file name="D:\xampp\htdocs\suratsdm\assets\js\plugins\morris\raphael.min.js" crc="1469476771"/>
+		<file name="D:\xampp\htdocs\suratsdm\assets\js\plugins\morris\morris.min.js" crc="1469476771"/>
+		<file name="D:\xampp\htdocs\suratsdm\assets\js\plugins\morris\morris.js" crc="1469476771"/>
+		<file name="D:\xampp\htdocs\suratsdm\assets\js\plugins\morris\morris-data.js" crc="1469476771"/>
+		<file name="D:\xampp\htdocs\suratsdm\assets\js\plugins\flot\jquery.flot.tooltip.min.js" crc="1469476771"/>
+		<file name="D:\xampp\htdocs\suratsdm\assets\js\plugins\flot\jquery.flot.resize.js" crc="1469476771"/>
+		<file name="D:\xampp\htdocs\suratsdm\assets\js\plugins\flot\jquery.flot.pie.js" crc="1469476771"/>
+		<file name="D:\xampp\htdocs\suratsdm\assets\js\plugins\flot\jquery.flot.js" crc="1469476771"/>
+		<file name="D:\xampp\htdocs\suratsdm\assets\js\plugins\flot\flot-data.js" crc="1469476771"/>
+		<file name="D:\xampp\htdocs\suratsdm\assets\js\plugins\flot\excanvas.min.js" crc="1469476771"/>
+		<file name="D:\xampp\htdocs\suratsdm\assets\js\npm.js" crc="1469436810"/>
+		<file name="D:\xampp\htdocs\suratsdm\assets\js\jquery.js" crc="1469476707"/>
+		<file name="D:\xampp\htdocs\suratsdm\assets\js\jquery-ui-1.12.1.min.js" crc="1482998835"/>
+		<file name="D:\xampp\htdocs\suratsdm\assets\js\jquery-2.2.4.min.js" crc="1482998602"/>
+		<file name="D:\xampp\htdocs\suratsdm\assets\js\bootstrap.min.js" crc="1469436810"/>
+		<file name="D:\xampp\htdocs\suratsdm\assets\js\bootstrap.js" crc="1469476707"/>
+		<file name="D:\xampp\htdocs\suratsdm\assets\js\auto.js" crc="1483429843"/>
+		<file name="D:\xampp\htdocs\suratsdm\assets\font-awesome\scss\font-awesome.scss" crc="1469476771"/>
+		<file name="D:\xampp\htdocs\suratsdm\assets\font-awesome\scss\_variables.scss" crc="1469476771"/>
+		<file name="D:\xampp\htdocs\suratsdm\assets\font-awesome\scss\_stacked.scss" crc="1469476771"/>
+		<file name="D:\xampp\htdocs\suratsdm\assets\font-awesome\scss\_spinning.scss" crc="1469476771"/>
+		<file name="D:\xampp\htdocs\suratsdm\assets\font-awesome\scss\_rotated-flipped.scss" crc="1469476771"/>
+		<file name="D:\xampp\htdocs\suratsdm\assets\font-awesome\scss\_path.scss" crc="1469476771"/>
+		<file name="D:\xampp\htdocs\suratsdm\assets\font-awesome\scss\_mixins.scss" crc="1469476771"/>
+		<file name="D:\xampp\htdocs\suratsdm\assets\font-awesome\scss\_list.scss" crc="1469476771"/>
+		<file name="D:\xampp\htdocs\suratsdm\assets\font-awesome\scss\_larger.scss" crc="1469476771"/>
+		<file name="D:\xampp\htdocs\suratsdm\assets\font-awesome\scss\_icons.scss" crc="1469476771"/>
+		<file name="D:\xampp\htdocs\suratsdm\assets\font-awesome\scss\_fixed-width.scss" crc="1469476771"/>
+		<file name="D:\xampp\htdocs\suratsdm\assets\font-awesome\scss\_core.scss" crc="1469476771"/>
+		<file name="D:\xampp\htdocs\suratsdm\assets\font-awesome\scss\_bordered-pulled.scss" crc="1469476771"/>
+		<file name="D:\xampp\htdocs\suratsdm\assets\font-awesome\less\variables.less" crc="1469476771"/>
+		<file name="D:\xampp\htdocs\suratsdm\assets\font-awesome\less\stacked.less" crc="1469476771"/>
+		<file name="D:\xampp\htdocs\suratsdm\assets\font-awesome\less\spinning.less" crc="1469476771"/>
+		<file name="D:\xampp\htdocs\suratsdm\assets\font-awesome\less\rotated-flipped.less" crc="1469476771"/>
+		<file name="D:\xampp\htdocs\suratsdm\assets\font-awesome\less\path.less" crc="1469476771"/>
+		<file name="D:\xampp\htdocs\suratsdm\assets\font-awesome\less\mixins.less" crc="1469476771"/>
+		<file name="D:\xampp\htdocs\suratsdm\assets\font-awesome\less\list.less" crc="1469476771"/>
+		<file name="D:\xampp\htdocs\suratsdm\assets\font-awesome\less\larger.less" crc="1469476771"/>
+		<file name="D:\xampp\htdocs\suratsdm\assets\font-awesome\less\icons.less" crc="1469476771"/>
+		<file name="D:\xampp\htdocs\suratsdm\assets\font-awesome\less\font-awesome.less" crc="1469476771"/>
+		<file name="D:\xampp\htdocs\suratsdm\assets\font-awesome\less\fixed-width.less" crc="1469476771"/>
+		<file name="D:\xampp\htdocs\suratsdm\assets\font-awesome\less\core.less" crc="1469476771"/>
+		<file name="D:\xampp\htdocs\suratsdm\assets\font-awesome\less\bordered-pulled.less" crc="1469476771"/>
+		<file name="D:\xampp\htdocs\suratsdm\assets\font-awesome\css\font-awesome.min.css" crc="1469476771"/>
+		<file name="D:\xampp\htdocs\suratsdm\assets\font-awesome\css\font-awesome.css" crc="1469476771"/>
+		<file name="D:\xampp\htdocs\suratsdm\assets\css\plugins\morris.css" crc="1469476771"/>
+		<file name="D:\xampp\htdocs\suratsdm\assets\css\simple-sidebar.css" crc="1484383915"/>
+		<file name="D:\xampp\htdocs\suratsdm\assets\css\sb-admin.css" crc="1469476771"/>
+		<file name="D:\xampp\htdocs\suratsdm\assets\css\sb-admin-rtl.css" crc="1469476771"/>
+		<file name="D:\xampp\htdocs\suratsdm\assets\css\jquery-ui.min.css" crc="1420820850"/>
+		<file name="D:\xampp\htdocs\suratsdm\assets\css\font-awesome.min.css" crc="1482439834"/>
+		<file name="D:\xampp\htdocs\suratsdm\assets\css\font-awesome.css" crc="1482439833"/>
+		<file name="D:\xampp\htdocs\suratsdm\assets\css\bootstrap.min.css" crc="1469476771"/>
+		<file name="D:\xampp\htdocs\suratsdm\assets\css\bootstrap.css" crc="1469476771"/>
+		<file name="D:\xampp\htdocs\suratsdm\assets\css\bootstrap-theme.min.css" crc="1469436808"/>
+		<file name="D:\xampp\htdocs\suratsdm\assets\css\bootstrap-rtl.min.css" crc="1469476771"/>
+		<file name="D:\xampp\htdocs\suratsdm\assets\css\bootstrap-rtl.css" crc="1469476771"/>
+		<file name="D:\xampp\htdocs\suratsdm\assets\css\bootstrap-3.3.1.min.css" crc="1482998718"/>
+		<file name="D:\xampp\htdocs\suratsdm\surat1.php" crc="1485145083"/>
+		<file name="D:\xampp\htdocs\suratsdm\surat.php" crc="1492490436"/>
+		<file name="D:\xampp\htdocs\suratsdm\setting.php" crc="1485013421"/>
+		<file name="D:\xampp\htdocs\suratsdm\session.php" crc="1484374941"/>
+		<file name="D:\xampp\htdocs\suratsdm\sandi.php" crc="1484941877"/>
+		<file name="D:\xampp\htdocs\suratsdm\Paginator.class.php" crc="1485145065"/>
+		<file name="D:\xampp\htdocs\suratsdm\menu.php" crc="1484943482"/>
+		<file name="D:\xampp\htdocs\suratsdm\logout.php" crc="1464157838"/>
+		<file name="D:\xampp\htdocs\suratsdm\login.php" crc="1484378722"/>
+		<file name="D:\xampp\htdocs\suratsdm\laporan.php" crc="1484938342"/>
+		<file name="D:\xampp\htdocs\suratsdm\index.php" crc="1486713808"/>
+		<file name="D:\xampp\htdocs\suratsdm\header.php" crc="1484896599"/>
+		<file name="D:\xampp\htdocs\suratsdm\footer.php" crc="1484897600"/>
+		<file name="D:\xampp\htdocs\suratsdm\FlashMessages.php" crc="1482231537"/>
+		<file name="D:\xampp\htdocs\suratsdm\disposisi.php" crc="1492596699"/>
+		<file name="D:\xampp\htdocs\suratsdm\dbconfig.php" crc="1488903163"/>
+		<file name="D:\xampp\htdocs\suratsdm\cari.php" crc="1484897850"/>
+		<file name="D:\xampp\htdocs\suratsdm\ajaxlap.php" crc="1492506172"/>
+		<file name="D:\xampp\htdocs\suratsdm\ajaxdposisi.php" crc="1484885241"/>
+		<file name="D:\xampp\htdocs\suratsdm\ajaxcari.php" crc="1492597707"/>
+	</filescache>
+</project>
